@@ -1,0 +1,26 @@
+﻿  MyForm.cpp
+C:\Users\krok9\Downloads\Project13\Project13\MyForm.h(1044,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\krok9\Downloads\Project13\Project13\MyForm.h(1047,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\krok9\Downloads\Project13\Project13\MyForm.h(1048,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\krok9\Downloads\Project13\Project13\MyForm.h(1049,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\krok9\Downloads\Project13\Project13\MyForm.h(1050,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\krok9\Downloads\Project13\Project13\MyForm.h(1051,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\krok9\Downloads\Project13\Project13\MyForm.h(1052,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\krok9\Downloads\Project13\Project13\MyForm.h(1053,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\krok9\Downloads\Project13\Project13\MyForm.h(1054,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\krok9\Downloads\Project13\Project13\MyForm.h(1055,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\krok9\Downloads\Project13\Project13\MyForm.h(1056,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\krok9\Downloads\Project13\Project13\MyForm.h(1059,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\krok9\Downloads\Project13\Project13\MyForm.h(1060,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\krok9\Downloads\Project13\Project13\MyForm.h(1061,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\krok9\Downloads\Project13\Project13\MyForm.h(1062,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\krok9\Downloads\Project13\Project13\MyForm.h(1063,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\krok9\Downloads\Project13\Project13\MyForm.h(1064,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\krok9\Downloads\Project13\Project13\MyForm.h(1065,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\krok9\Downloads\Project13\Project13\MyForm.h(1066,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\krok9\Downloads\Project13\Project13\MyForm.h(1067,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\krok9\Downloads\Project13\Project13\MyForm.h(1068,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\krok9\Downloads\Project13\Project13\MyForm.h(1070,29): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\krok9\Downloads\Project13\Project13\MyForm.h(1194,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project13.vcxproj -> C:\Users\krok9\Downloads\Project13\Debug\Project13.exe

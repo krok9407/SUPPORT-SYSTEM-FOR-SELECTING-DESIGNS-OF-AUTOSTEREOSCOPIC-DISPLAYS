@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Project13\Project13\Debug\Project13.vcxprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Project13\Project13\Debug\Project13.MyForm.resources
+C:\Users\Admin\source\repos\Project13\Project13\Debug\Project13.vcxproj.GenerateResource.cache
+C:\Users\krok9\Downloads\Project13\Project13\Debug\Project13.vcxproj.AssemblyReference.cache
+C:\Users\krok9\Downloads\Project13\Project13\Debug\Project13.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\krok9\Downloads\Project13\Project13\Debug\Project13.MyForm.resources
+C:\Users\krok9\Downloads\Project13\Project13\Debug\Project13.vcxproj.GenerateResource.cache
